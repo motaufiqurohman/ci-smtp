@@ -530,5 +530,5 @@ $config['email_smtp'] = [
     'smtp_port' => 465,
     'mailtype'  => 'html',
     'charset'   => 'utf-8',
-    'newline' => "\r\n"
+    'newline' => "\r\n" // pake tanda petik dua (")
 ];
